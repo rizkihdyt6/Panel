@@ -2,7 +2,7 @@
 
 #install
 apt update && apt upgrade
-apt install unzip -y
+
 apt install python3 python3-pip git
 git clone https://github.com/rizkihdyt6/panel.git
 unzip scupdate/xolpanel.zip
